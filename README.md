@@ -1,6 +1,5 @@
 # Portfolio
 The project is named as Instacart Grocery Basket Analysis
-The project is named as Instacart Grocery Basket Analysis
 The aim of the project is supporting Instacart teams for preparing applicable marketing strategies. The data is analysed for deriving insights and suggest strategies for better customer segmentation based on the provided criteria.
 At the project, the followings are analysed:
 - the days and times with the most orders
